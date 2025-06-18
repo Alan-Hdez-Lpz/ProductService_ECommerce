@@ -14,7 +14,7 @@ NOTE: The server port will change according server port value in the config-repo
 
 API endpoints and sample requests for testing:
 
-For ROLES:
+For PRODUCTS:
 CREATE:
  - POST -> http://localhost:8081/products
  - BodyRequest:
